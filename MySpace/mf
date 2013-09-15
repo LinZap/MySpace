@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: UI.Main
+Class-Path: jar/apache-ant-1.8.2.jar jar/dom4j-1.6.1.jar jar/dsn.jar jar/imap.jar jar/JTattoo.jar jar/mailapi.jar jar/pop3.jar jar/smtp.jar jar/swt_64bit.jar
+
+

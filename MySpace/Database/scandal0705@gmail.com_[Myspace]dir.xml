@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root name="MySpace"> 
+  <dir name="檔案接收櫃"/>  
+  <dir name="測試用目錄"> 
+    <dir name="aaa"> 
+      <dir name="子目錄"/> 
+    </dir>  
+    <dir name="bbb"/>  
+    <dir name="ccc"/>  
+    <dir name="BC"/>
+  </dir> 
+</root>

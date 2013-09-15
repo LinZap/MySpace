@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root> 
+  <file> 
+    <id>I Like It Like That.mp3_20130516154725</id>  
+    <name>I Like It Like That.mp3</name>  
+    <size>2177537</size>  
+    <type>mp3</type>  
+    <savedate>2013/05/16</savedate>  
+    <sub_number>3</sub_number>  
+    <dir>[MySpace]</dir>  
+    <store> 
+      <sub_file> 
+        <sname>[MySpace]I Like It Like That.mp3_20130516154725.zip1.tmp</sname>  
+        <sact>scandal0705@gmail.com</sact>  
+        <spsd>t123936975</spsd> 
+      </sub_file>  
+      <sub_file> 
+        <sname>[MySpace]I Like It Like That.mp3_20130516154725.zip2.tmp</sname>  
+        <sact>scandal0705@gmail.com</sact>  
+        <spsd>t123936975</spsd> 
+      </sub_file>  
+      <sub_file> 
+        <sname>[MySpace]I Like It Like That.mp3_20130516154725.zip3.tmp</sname>  
+        <sact>scandal0705@gmail.com</sact>  
+        <spsd>t123936975</spsd> 
+      </sub_file> 
+    </store>  
+    <freq>0</freq>  
+    <star>0</star>  
+    <modified>1368677379690</modified>  
+    <used>1368677379690</used> 
+  </file>  
+  <file> 
+    <id>I Like It Like That.mp3_20130516154813</id>  
+    <name>I Like It Like That.mp3</name>  
+    <size>2177537</size>  
+    <type>mp3</type>  
+    <savedate>2013/05/16</savedate>  
+    <sub_number>3</sub_number>  
+    <dir>[MySpace]</dir>  
+    <store> 
+      <sub_file> 
+        <sname>[MySpace]I Like It Like That.mp3_20130516154813.zip1.tmp</sname>  
+        <sact>nikysweet520@gmail.com</sact>  
+        <spsd>t123936975</spsd> 
+      </sub_file>  
+      <sub_file> 
+        <sname>[MySpace]I Like It Like That.mp3_20130516154813.zip2.tmp</sname>  
+        <sact>nikysweet520@gmail.com</sact>  
+        <spsd>t123936975</spsd> 
+      </sub_file>  
+      <sub_file> 
+        <sname>[MySpace]I Like It Like That.mp3_20130516154813.zip3.tmp</sname>  
+        <sact>nikysweet520@gmail.com</sact>  
+        <spsd>t123936975</spsd> 
+      </sub_file> 
+    </store>  
+    <freq>0</freq>  
+    <star>0</star>  
+    <modified>1368677379690</modified>  
+    <used>1368677379690</used> 
+  </file>  
+  <file> 
+    <id>純文字檔.txt_20130516154836</id>  
+    <name>純文字檔.txt</name>  
+    <size>4</size>  
+    <type>txt</type>  
+    <savedate>2013/05/16</savedate>  
+    <sub_number>1</sub_number>  
+    <dir>[MySpace, 測試用目錄, bbb]</dir>  
+    <store> 
+      <sub_file> 
+        <sname>[MySpace]純文字檔.txt_20130516154836.zip</sname>  
+        <sact>scandal0705@gmail.com</sact>  
+        <spsd>t123936975</spsd> 
+      </sub_file> 
+    </store>  
+    <freq>0</freq>  
+    <star>0</star>  
+    <modified>1368596583028</modified>  
+    <used>1368596583028</used> 
+  </file>  
+  <file> 
+    <id>投影片.pptx_20130516154836</id>  
+    <name>投影片.pptx</name>  
+    <size>29749</size>  
+    <type>pptx</type>  
+    <savedate>2013/05/16</savedate>  
+    <sub_number>1</sub_number>  
+    <dir>[MySpace, 測試用目錄]</dir>  
+    <store> 
+      <sub_file> 
+        <sname>[MySpace]投影片.pptx_20130516154836.zip</sname>  
+        <sact>scandal0705@gmail.com</sact>  
+        <spsd>t123936975</spsd> 
+      </sub_file> 
+    </store>  
+    <freq>0</freq>  
+    <star>0</star>  
+    <modified>1368598030679</modified>  
+    <used>1368598030679</used> 
+  </file> 
+</root>

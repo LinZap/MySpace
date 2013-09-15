@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root name="MySpace"> 
+  <dir name="檔案接收櫃"/>  
+  <dir name="測試檔案"> 
+    <dir name="子目錄1"/>  
+    <dir name="子目錄2"/> 
+  </dir>  
+  <dir name="測試目錄"> 
+    <dir name="子目錄1"/>  
+    <dir name="子目錄2"/> 
+  </dir>  
+  <dir name="測試目錄(1)"> 
+    <dir name="子目錄1"/>  
+    <dir name="子目錄2"/>  
+    <dir name="rgr"/> 
+  </dir>  
+  <dir name="測試目錄(2)"> 
+    <dir name="子目錄1"/>  
+    <dir name="子目錄2"/> 
+  </dir>  
+  <dir name="rrr"/>  
+  <dir name="測試目錄(3)"> 
+    <dir name="子目錄1"/>  
+    <dir name="子目錄2"/>
+  </dir> 
+</root>
