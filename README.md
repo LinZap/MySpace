@@ -1,3 +1,6 @@
+## Abstract
+   The objective of the porject is developing a personal cloud storage integrated system,which assists an individual to combine scattered cloud storage spaces as a system whose storage volumue surpasses other cloud space services and equipped with the same functions as them.
+
 ## License
 
    Copyright 2013 LinZap
